@@ -16,8 +16,8 @@ author = "Pavel Kanyshev"
 styles = "styles.css"
 
   [params.profile]
-  name = "Testando"
-  tagline = "Full Stack Developer"
+  name = "Saul Santos do Nascimento"
+  tagline = "Fisioterapeuta"
   avatar = "profile.png"
 
   [params.contact]
@@ -27,91 +27,93 @@ styles = "styles.css"
     class = "email"
     icon = "fa-envelope"
     url = "mailto: yourname@email.com"
-    title = "john.doe@website.com"
+    title = "saulll@gmail.com"
 
     [[params.contact.list]]
     class = "phone"
     icon = "fa-phone"
     url = "tel:+1234567890"
-    title = "+1234567890"
+    title = "98932455406"
 
     [[params.contact.list]]
     class = "website"
     icon = "fa-globe"
     url = "//portfoliosite.com"
-    title = "portfoliosite.com"
+    title = "naotemsite.com"
 
     [[params.contact.list]]
     class = "linkedin"
     icon = "fa-linkedin"
     url = "//linkedin.com/in/johndoe"
-    title = "linkedin.com/in/johndoe"
+    title = "linkedin.com"
 
     [[params.contact.list]]
     class = "github"
     icon = "fa-github"
     url = "//github.com/username"
-    title = "github.com/username"
+    title = "github.com"
 
     [[params.contact.list]]
     class = "twitter"
     icon = "fa-twitter"
     url = "//twitter.com/username"
-    title = "@twittername"
+    title = "@twitter"
 
   [params.education]
   enable = true
-  title = "Education"
+  title = "Educação"
 
     [[params.education.list]]
-    degree = "MSc in Computer Science"
-    college = "University of London"
+    degree = "Ensino Médio Completo"
+    college = "Colégio Rio Grande do Norte"
     dates = "2006 - 2010"
 
     [[params.education.list]]
-    degree = "BSc in Applied Mathematics"
-    college = "Bristol University"
+    degree = "Ensino Fundamental"
+    college = "Sá Valle"
     dates = "2007 - 2011"
 
   [params.language]
   enable = true
-  title = "Languages"
+  title = "Idiomas"
 
     [[params.language.list]]
     language = "English"
-    level = "Native"
+    level = "Básico"
 
     [[params.language.list]]
-    language = "French"
-    level = "Professional"
+    language = "Português"
+    level = "Mediano"
 
     [[params.language.list]]
-    language = "Russian"
-    level = "Professional"
+    language = "Espanhol"
+    level = "Não sei"
 
   [params.interests]
   enable = true
-  title = "Interests"
+  title = "Interesses"
 
     [[params.interests.list]]
-    interest = "Climbing"
+    interest = "Jogar Fifa"
 
     [[params.interests.list]]
-    interest = "Snowboarding"
+    interest = "Vagabundar"
 
     [[params.interests.list]]
-    interest = "Cooking"
+    interest = "Cozinhar"
 
   [params.summary]
   enable = true
   icon = "fa-user"
   title = "Career Profile"
-  summary = "**Summarise your career here** lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu."
+  summary = "Profissional de Fisioterapia cursando pela Faculdade Edufor com sólida
+experiência em montagem e desmontagem de ossos e celulas, especializado em
+músculos, além de conhecimentos de Terapia intessiva, atualmente em busca de novos desafios.."
 
   [params.experiences]
   enable = true
   icon = "fa-briefcase"
-  title = "Experiences"
+  title = "Experiencias"
 
 [[params.jobs.list]]
 position = "Lead Developer"
