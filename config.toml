@@ -18,7 +18,7 @@ styles = "styles.css"
   [params.profile]
   name = "Saul Santos do Nascimento"
   tagline = "Fisioterapeuta"
-  avatar = "profile.png"
+  avatar = "profile1.jpg"
 
   [params.contact]
   enable = true
