@@ -16,7 +16,7 @@ author = "Pavel Kanyshev"
 styles = "styles.css"
 
   [params.profile]
-  name = "John Doe"
+  name = "Testando"
   tagline = "Full Stack Developer"
   avatar = "profile.png"
 
