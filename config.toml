@@ -16,7 +16,7 @@ author = "Pavel Kanyshev"
 styles = "styles.css"
 
   [params.profile]
-  name = "Saul Santos do Nascimento"
+  name = "Saul Santos"
   tagline = "Fisioterapeuta"
   avatar = "profile1.jpg"
 
