@@ -1,5 +1,5 @@
 baseurl = "https://enthusiastic-oregano-b441e.netlify.app/"
-languageCode = "en-us"
+languageCode = "pt-br"
 title = "John Doe Resume"
 theme = "orbit"
 googleAnalytics = "UA-XXXXXXX-Y"
@@ -16,7 +16,7 @@ author = "Pavel Kanyshev"
 styles = "styles.css"
 
   [params.profile]
-  name = "Teste"
+  name = "Saul Santos"
   tagline = "Fisioterapeuta"
   avatar = "profile.png"
 
