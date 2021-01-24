@@ -1,5 +1,4 @@
 baseurl = "https://enthusiastic-oregano-b441e.netlify.app/"
-languageCode = "en"
 title = "John Doe Resume"
 theme = "orbit"
 googleAnalytics = "UA-XXXXXXX-Y"
