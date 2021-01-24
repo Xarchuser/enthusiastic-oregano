@@ -1,4 +1,5 @@
 baseurl = "https://enthusiastic-oregano-b441e.netlify.app/"
+defaultContentLanguage = "en"
 title = "John Doe Resume"
 theme = "orbit"
 googleAnalytics = "UA-XXXXXXX-Y"
@@ -193,11 +194,12 @@ details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer 
     skill = "Sketch & Photoshop"
     level = "60%"
 
-defaultContentLanguage = "pt-br"
-
 [languages]
   [languages.pt-br.params.education]
     title = "Educação"
+  
+  [languages.en.params.education]
+    title = "Education"
   
   [params.footer]
   copyright = ""
