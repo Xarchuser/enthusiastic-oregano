@@ -60,7 +60,8 @@ styles = "styles.css"
 
   [params.education]
   enable = true
-  name = "Educa"
+  class = "container-block-title"
+  title = "TESTANDO"
 
     [[params.education.list]]
     degree = "Ensino Médio Completo"
