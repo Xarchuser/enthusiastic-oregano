@@ -106,9 +106,7 @@ styles = "styles.css"
   enable = true
   icon = "fa-user"
   title = "Career Profile"
-  summary = "Profissional de Fisioterapia cursando pela Faculdade Edufor com sólida
-experiência em montagem e desmontagem de ossos e celulas, especializado em
-músculos, além de conhecimentos de Terapia intessiva, atualmente em busca de novos desafios.."
+  summary = "Profissional de Fisioterapia cursando pela Faculdade Edufor com sólida experiência em montagem e desmontagem de ossos e celulas, especializado em músculos, além de conhecimentos de Terapia intessiva, atualmente em busca de novos desafios.."
 
   [params.experiences]
   enable = true
