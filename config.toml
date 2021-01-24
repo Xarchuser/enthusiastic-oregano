@@ -59,7 +59,7 @@ styles = "styles.css"
     url = "//twitter.com/username"
     title = "@twitter"
 
-  [params.education]
+  [pt-br.params.education]
   enable = true
   title = "Educação"
 
@@ -73,7 +73,7 @@ styles = "styles.css"
     college = "Sá Valle"
     dates = "2007 - 2011"
 
-  [params.language]
+  [pt-br.params.language]
   enable = true
   title = "Idiomas"
 
