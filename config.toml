@@ -1,5 +1,5 @@
 baseurl = "https://enthusiastic-oregano-b441e.netlify.app/"
-languageCode = "pt-br"
+languageCode = "en"
 title = "John Doe Resume"
 theme = "orbit"
 googleAnalytics = "UA-XXXXXXX-Y"
@@ -59,9 +59,9 @@ styles = "styles.css"
     url = "//twitter.com/username"
     title = "@twitter"
 
-  [pt-br.params.education]
+  [params.education]
   enable = true
-  title = "Educação"
+  title = "Education"
 
     [[params.education.list]]
     degree = "Ensino Médio Completo"
@@ -73,9 +73,9 @@ styles = "styles.css"
     college = "Sá Valle"
     dates = "2007 - 2011"
 
-  [pt-br.params.language]
+  [params.language]
   enable = true
-  title = "Idiomas"
+  title = "Languages"
 
     [[params.language.list]]
     language = "English"
@@ -91,7 +91,7 @@ styles = "styles.css"
 
   [params.interests]
   enable = true
-  title = "Interesses"
+  title = "Interests"
 
     [[params.interests.list]]
     interest = "Jogar Fifa"
@@ -194,5 +194,11 @@ details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer 
     skill = "Sketch & Photoshop"
     level = "60%"
 
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.pt-br.params.education]
+    title = "Educação"
+  
   [params.footer]
   copyright = ""
