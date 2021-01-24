@@ -194,7 +194,7 @@ details = "**Describe your role here** lorem ipsum dolor sit amet, consectetuer 
     skill = "Sketch & Photoshop"
     level = "60%"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "pt-br"
 
 [languages]
   [languages.pt-br.params.education]
