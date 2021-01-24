@@ -58,10 +58,10 @@ styles = "styles.css"
     url = "//twitter.com/username"
     title = "@twitter"
 
-  [params.education]
-  enable = true
-  class = "container-block-title"
-  title = "TESTANDO"
+    [params.education]
+    enable = true
+    class = "container-block-title"
+    title = "TESTANDO"
 
     [[params.education.list]]
     degree = "Ensino Médio Completo"
@@ -105,7 +105,7 @@ styles = "styles.css"
   [params.summary]
   enable = true
   icon = "fa-user"
-  title = "Career Profile"
+  title = "Teste"
   summary = "Profissional de Fisioterapia cursando pela Faculdade Edufor com sólida experiência em montagem e desmontagem de ossos e celulas, especializado em músculos, além de conhecimentos de Terapia intessiva, atualmente em busca de novos desafios.."
 
   [params.experiences]
