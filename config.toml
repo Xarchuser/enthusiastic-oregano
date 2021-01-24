@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "https://enthusiastic-oregano-b441e.netlify.app/"
 languageCode = "en-us"
 title = "John Doe Resume"
 theme = "orbit"
@@ -16,9 +16,9 @@ author = "Pavel Kanyshev"
 styles = "styles.css"
 
   [params.profile]
-  name = "Saul Santos"
+  name = "Teste"
   tagline = "Fisioterapeuta"
-  avatar = "profile1.jpg"
+  avatar = "profile.png"
 
   [params.contact]
   enable = true
